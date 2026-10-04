@@ -1,10 +1,8 @@
 # Yassin Ali
 
-Johannesburg-based builder from Zimbabwe. I run [Solid Solutions](https://solidsolutions.africa), a studio that builds AI agents, automation, and web apps for African businesses. I also run [Fresh People](https://fresh-people.co.za), an events staffing company in Johannesburg, and the tools that keep its bookings, crews, and timesheets moving.
+Harare-based builder from Zimbabwe. I run [Solid Solutions](https://solidsolutions.africa), a studio that builds AI agents, automation, and web apps for African businesses. I also run [Fresh People](https://fresh-people.co.za), an events staffing company in Harare, and the tools that keep its bookings, crews, and timesheets moving.
 
 I like software a small team can actually run — clear to operate, and still useful when connectivity or power is uneven.
-
-<!-- TODO: This intro says Johannesburg, from the profile brief and from Fresh People (Randburg / Johannesburg). The GitHub profile location and solidsolutions.africa still say Harare. Confirm the line, or say if both cities should appear. -->
 
 ## What I'm building
 
